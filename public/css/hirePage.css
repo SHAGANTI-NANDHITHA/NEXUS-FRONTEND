@@ -4,7 +4,7 @@
     padding: 0;
   }
   body{
-    background-image: url("../assets/hello.avif");
+    background-image: url("/public/assets/hello.avif");
     background-repeat: repeat-y;
     background-size: cover;
   }
@@ -178,7 +178,7 @@
     justify-content: flex-start;
     padding-bottom: 2.5%;
     /* padding-top: 1%; */
-    background-image: url(/assets/hello.avif);
+    background-image: url(/public/assets/hello.avif);
     background-repeat: no-repeat;
     background-size: cover;
   }
